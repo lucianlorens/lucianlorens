@@ -2,6 +2,16 @@
 
 Data Engineer learning about DevOps
 
+
+[![Lucian Lorens GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlorens&theme=merko&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianlorens&theme=merko&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+About:
+
+🤖 Started in Technology in 2015;
+
 🌱 Passionate about Biology;
 
 🎹 Musician since 2003;
@@ -20,20 +30,25 @@ Data Engineer learning about DevOps
 
 📝 Writer wannabe.
 
-[![Lucian Lorens GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlorens&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianlorens&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Languages
-🇧🇷 Portuguese
-🌐 International English
-🇪🇸 Spanish
+🇧🇷 Portuguese;
+
+🌐 International English;
+
+🇪🇸 Spanish;
+
+
+### Templates for Documentation
+
+🛠️ Work in Progress 🛠️
+
+Readme.md for projects
 
 
 ### Certificates
-
+🛠️ Work in Progress 🛠️
 
 ### Other works:
 Blog:
