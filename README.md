@@ -1,10 +1,8 @@
 # Hello hello everyone! 👋
 
-Data Engineer learning about DevOps
-
+Data Engineer learning about DevOps thriving for making the world a little bit better using technology.
 
 [![Lucian Lorens GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlorens&theme=merko&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianlorens&layout=compact&theme=merko&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -12,7 +10,7 @@ About:
 
 🤖 Started in Technology in 2015;
 
-🌱 Passionate about Biology;
+🌱 Passionate about Biology since forever;
 
 🎹 Musician since 2003;
 
@@ -54,7 +52,20 @@ API architecture
 🛠️ Work in Progress 🛠️
 
 ### Other works:
-<!-- [![Lucian Lorens Wordpress blog](/images/wordpress.png)]()--> 
+Resumé:
+https://www.linkedin.com/in/lucian-lorens/
+
+Blog:
+https://lucianlorens.wordpress.com/
+
+Music:
+https://soundcloud.com/lucianlorens
+
+Streaming:
+https://www.twitch.tv/dibrorens
+
+
+<!-- [![Lucian Lorens Wordpress blog](/images/wordpress.png)]()
 
 <img src="./images/wordpress.jpg" href="https://lucianlorens.wordpress.com/" alt="Lucian Lorens Wordpress blog" width="142"/>
 
@@ -67,4 +78,4 @@ API architecture
 
 <img src="./images/.jpg" href="" alt="Lucian Lorens " width="142"/>
 [![Lucian Lorens LinkedIn profile](/images/linkedin.png)](https://www.linkedin.com/in/lucian-lorens/)
-
+--> 
