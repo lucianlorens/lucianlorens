@@ -2,8 +2,8 @@
 
 Data Engineer learning about DevOps thriving for making the world a little bit better using technology.
 
-[![Lucian Lorens GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlorens&theme=merko&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianlorens&layout=compact&theme=merko&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucian Lorens GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlorens&theme=merko&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianlorens&layout=compact&theme=merko&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 TODO: 
 * Add favorite Stack section with images
@@ -56,19 +56,19 @@ About:
 
 ### Templates for Documentation
 
+[README for projects](/documentation_templates/README_template.md)
+
 🛠️ Work in Progress 🛠️
-
-Readme.md for projects
-
-Datalake architecture
-
-API architecture
+Datalake Architecture
+Microsservice API Architecture
 
 ### Certificates
 🛠️ Work in Progress 🛠️
 
+[Miscellaneous](/certificates/misc/)
+
 ### Other works:
-Resumé:
+CV:
 https://www.linkedin.com/in/lucian-lorens/
 
 Blog:
