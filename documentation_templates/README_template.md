@@ -1,86 +1,68 @@
 # Project Title
-Description in 2 lines max. about the program.
-
+_Description in 3 lines maximum about the project._
+ 
 ### Prerequisites
-
-* List of tools that need to be preinstalled
-* 
-* 
-
-(optional)
-
-## Getting Started
-
-
-1. List of steps;
-    `command`
-2. to run properly;
-3. the project.
+:construction: [work_in_progress] :construction:
+* _List of operational systems, tools and framework that need to be preinstalled._
+* (optional)
 
 ### Architecture
+:construction: [work_in_progress] :construction:
+![architecture_image.png](link/to/file.png)
 
-![architecture_image](Address/to/company)
-
+## Getting Started
+:construction: [work_in_progress] :construction:
+_Simply with instructions on how to install and use locally your solution._
+1. List of steps: `command`
+2. to run properly `another command`
+3. the project.
 
 ### Installing
+:construction: [work_in_progress] :construction:
+_List of tutorials to install the necessary tools and frameworks._
 
-[wip]
-
-## Running the tests
-
-[wip]
+### Running the tests
+:construction: [work_in_progress] :construction:
 
 ### Break down into end to end tests
-:construction: [wip] :construction:
+:construction: [work_in_progress] :construction:
 
 ### And coding style tests
-:construction: [wip] :construction:
+:construction: [work_in_progress] :construction:
 
-
-## Deployment
-:construction: [wip] :construction:
-
-_Description about how to use and configure a DevOps continuous deployment or simply with instructions on how to install and use locally your solution_
-
-
-[wip]
+### Deployment
+:construction: [work_in_progress] :construction:
+_Description about how to use and configure a DevOps continuous deployment._
 
 ## Built With
-:construction: [wip] :construction:
-
+:construction: [work_in_progress] :construction:
+_List of main frameworks used._
 * [framework](https:// internet address to the framework) - framework description.
 
-
 ## Contributing
-
-:construction: [wip] :construction:
+:construction: [work_in_progress] :construction:
 
 The structure for commits messages are:
-{{Emoji}} {{feat/ , fix/ or debug/}} {{issue identifier}} {{commit message}}
+{{Emoji}} {{feat/ , fix/ or debug/}} {{issue identifier}} {{"commit message"}}
 
-The pattern for commits are used with Gitmoji by Carlos Cuesta
+* The pattern for commits are used with Gitmoji by Carlos Cuesta:
 https://gitmoji.dev/
 
+### Versioning
+:construction: [work_in_progress] :construction:
 
+### Branches
+* Production: **main**
+* Development: **dev**
 
-## Versioning
-
-
-#### Branches
-* Production: main
-* Development: dev 
-
-#### Commit Pattern:
+### Commit Pattern:
 Using https://gitmoji.dev/ emoji pattern to easy find commits topics
 
 ## Authors
-
 * **Lucian Lorens** - *Initial work* - [lucianlorens](https://github.com/lucianlorens)
 
 ## License
-
-:construction: [wip] :construction:
+:construction: [work_in_progress] :construction:
 
 ## Acknowledgments
-
-:construction: [wip] :construction:
+:construction: [work_in_progress] :construction:
