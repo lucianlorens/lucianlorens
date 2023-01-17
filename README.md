@@ -2,8 +2,6 @@
 
 Data Engineer learning about DevOps thriving for making the world a little bit better using technology.
 
-[![Lucian Lorens GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianlorens&theme=merko&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianlorens&layout=compact&theme=merko&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 TODO: 
 * Add favorite Stack section with images
